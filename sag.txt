@@ -1,0 +1,73 @@
+[33mcommit 02bf92a088d36f88b89b89796f311f61b878b384[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Mon Nov 5 16:06:02 2018 +0530
+
+    addign 3rd
+
+[33mcommit 51d23d45f56cc9039e6b757fc692c389bdcc4fa3[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Mon Nov 5 16:05:48 2018 +0530
+
+    adding 2nd
+
+[33mcommit ea3bbbbdb357df49fc827be92de4b994d4c18440[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Mon Nov 5 16:05:37 2018 +0530
+
+    addign 1,txt
+
+[33mcommit e1c764f0cd72442f8b287b714ed71bd04cabaeb9[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Mon Nov 5 16:02:14 2018 +0530
+
+    Revert "addign 1 and 2 at same time"
+    
+    This reverts commit c6643192114325947d15a49745399f45bdb88782.
+
+[33mcommit c6643192114325947d15a49745399f45bdb88782[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Mon Nov 5 13:11:29 2018 +0530
+
+    addign 1 and 2 at same time
+
+[33mcommit 6bf0f9f377631aa7b473c3335a17eb525559872b[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Mon Nov 5 13:07:46 2018 +0530
+
+    update commmit
+
+[33mcommit 037b3cf9cb5183b39394d5f70761c506642d9c9d[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Mon Nov 5 12:53:58 2018 +0530
+
+    adding java
+
+[33mcommit d3efdf078631192f338d2fe836dbb26af8ceaf29[m[33m ([m[1;33mtag: sag[m[33m, [m[1;33mtag: 1.1[m[33m)[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Sun Nov 4 16:51:00 2018 +0530
+
+    adding sag.txt for git diff command check
+
+[33mcommit cf34d359505d33f1a5918defaab08733e5105bd2[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Sun Nov 4 16:32:20 2018 +0530
+
+    deleting hello.txt
+
+[33mcommit 2d81af157f84924860b74d12da540f4396a6dd19[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Sun Nov 4 16:29:04 2018 +0530
+
+    adding helllllllo.txty
+
+[33mcommit bbb8a9b3dbe957c13b780989b142d8fa2c19082d[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Sun Nov 4 16:27:12 2018 +0530
+
+    adding folder and sagar.txt file
+
+[33mcommit a4843e2260ecef745c05f75e3840d338048aad44[m
+Author: Sagar Mamidala <sagarmamidala1996.com>
+Date:   Sun Nov 4 16:15:15 2018 +0530
+
+    Adding first commit
